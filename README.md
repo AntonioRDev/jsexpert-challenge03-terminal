@@ -1,3 +1,5 @@
+Antônio Carlos Ribeiro da Cruz
+
 # Story: Entendendo sua pretensão salarial em moedas estrangeiras 
 
 Aproveitando que "já tá todo mundo bem Senior", como diria o grande Erick Wendel, a idéia é fazer
