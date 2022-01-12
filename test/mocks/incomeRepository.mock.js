@@ -1,10 +1,10 @@
-import IncomeRepository from '../../src/repository/IncomeRepository.js';
-import sinon from 'sinon';
-import convertResponseMock from './convert-response.js';
-import validIncomeMock from './valid-income.js';
+import IncomeRepository from "../../src/repository/IncomeRepository.js";
+import sinon from "sinon";
+import convertResponseMock from "./convert-response.js";
+import validIncomeMock from "./valid-income.js";
 
 const urls = {
-  convert: 'http://localhost:3000/convert',
+  convert: "/convert",
 };
 
 const mocks = {

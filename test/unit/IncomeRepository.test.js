@@ -11,8 +11,9 @@ describe('IncomeRepository Suite Tests', () => {
 
   it('should return the correct list of conversions when getConversions is called', async () => {
     const expected = mocks.convertResponse.results;
+    
     const result = await repository.getConversions();
 
-    expect(result).to.be.equal(expected);
+    expect(result.results).to.be.equal(expected);
   });
 });
